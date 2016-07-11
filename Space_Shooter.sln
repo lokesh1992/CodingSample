@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Space_Shooter", "Space_Shooter\Space_Shooter\Space_Shooter.csproj", "{FEBC546F-B3C5-44E2-9576-03BB200C0C1C}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "Space_ShooterContent", "Space_Shooter\Space_ShooterContent\Space_ShooterContent.contentproj", "{98A54E60-8FF1-4D87-9FAD-9577014B8697}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FEBC546F-B3C5-44E2-9576-03BB200C0C1C}.Debug|x86.ActiveCfg = Debug|x86
+		{FEBC546F-B3C5-44E2-9576-03BB200C0C1C}.Debug|x86.Build.0 = Debug|x86
+		{FEBC546F-B3C5-44E2-9576-03BB200C0C1C}.Release|x86.ActiveCfg = Release|x86
+		{FEBC546F-B3C5-44E2-9576-03BB200C0C1C}.Release|x86.Build.0 = Release|x86
+		{98A54E60-8FF1-4D87-9FAD-9577014B8697}.Debug|x86.ActiveCfg = Debug|x86
+		{98A54E60-8FF1-4D87-9FAD-9577014B8697}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
